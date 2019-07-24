@@ -12,7 +12,7 @@ Current duration is ~ 1 hour.
 
 # Resources
 * [Slides v1](https://bit.ly/bosc19-bof-slides)
-* [Accompanying sheets (for researcher stories + rebooting reproducibility discussions)(https://bit.ly/bosc19-bof-sheets)
+* [Accompanying sheets (for researcher stories + rebooting reproducibility discussions)](https://bit.ly/bosc19-bof-sheets)
 
 # Content
 ## Introduction - what is reproducibility, and why is it important?
