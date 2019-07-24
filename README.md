@@ -11,7 +11,8 @@ Current duration is ~ 1 hour.
 * Encourage a deeper, more philosophical discussions around research communication, to identify technological means to encourage interrogation, reuse and incorporation beyond re-execution
 
 # Resources
-Slides v1
+*[Slides v1](https://bit.ly/bosc19-bof-slides)
+*[Accompanying sheets (for researcher stories + rebooting reproducibility discussions)(https://bit.ly/bosc19-bof-sheets)
 
 # Content
 ## Introduction - what is reproducibility, and why is it important?
